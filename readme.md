@@ -1,0 +1,4 @@
+GO
+==
+
+Hello Go!
